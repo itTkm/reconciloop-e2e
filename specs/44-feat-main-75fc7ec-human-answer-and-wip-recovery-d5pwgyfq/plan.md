@@ -1,2 +1,2 @@
-# 計画途中
-WIPの安全な保存と復旧を確認する。
+# plan.md
+Record the observable result.
